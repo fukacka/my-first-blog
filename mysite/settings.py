@@ -25,7 +25,7 @@ SECRET_KEY = '#w2+q@69+$$e4oi083xk@tj+66hrgotmi^j+pp5c4a1bn9zjy)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tourdewc.pythonanywhere.com']
 
 
 # Application definition
